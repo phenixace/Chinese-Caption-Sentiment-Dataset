@@ -12,7 +12,7 @@ There are 6528 instances in this dataset.
 
 --1000 instances in test set.
 
-Labels: 7 kinds
+Labels: 7 categories
 
 0 none 
 

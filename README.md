@@ -31,5 +31,7 @@ Labels: 7 categories
 # VISION
 I hope there will be more people help us to enlarge this dataset.
 
-# Attention
+# Notice
 No commercial use is allowed!
+
+If you use our work as your dataset or part of your dataset, please mention us with the link of this repo. Thank you!
